@@ -48,6 +48,3 @@ This project is based on a step-by-step tutorial covering:
 - **Framer Motion**
 
 
-
-- Tutorial: [YouTube Tutorial Link](#)  
-- Deployment: Hostinger
