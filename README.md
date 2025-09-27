@@ -1,6 +1,6 @@
-🎥 **Demo Video:** https://res.cloudinary.com/dijsakcjf/video/upload/v1758946739/Agency_giiftx.mp4  
-
 # 🌐 Digital Agency Website
+
+[🎥 Watch Demo Video](https://res.cloudinary.com/dijsakcjf/video/upload/v1758946739/Agency_giiftx.mp4)
 
 A modern digital agency website with animations, theme toggle, smooth scrolling, and integrated contact form, deployed with Hostinger.
 
