@@ -1,50 +1,20 @@
-# 🌐 Digital Agency Website (React + Tailwind CSS)
+# 🌐 Digital Agency Website (React + Tailwind + Framer Motion)
 
-A fully responsive and animated digital agency website built with **ReactJS, Tailwind CSS, and Framer Motion**, featuring a theme toggle, smooth animations, and a functional contact form.
-
----
+A **modern digital agency website** with animations, dark/light mode, and smooth scrolling. Deployed on **Hostinger**.
 
 ## 🚀 Features
-- 🌗 Light/Dark mode with persistence
-- 🎨 Hover animations on service cards
-- 🖱️ Custom cursor with trailing animation
-- 📱 Fully responsive design with smooth scroll navigation
-- ✨ Animations via **Framer Motion**
+- 🌗 Dark/light theme toggle (with persistence via localStorage)
+- ✨ Framer Motion animations for smooth UI transitions
+- 🖱️ Custom animated cursor with trailing circle
+- 📜 Smooth scroll navigation across sections
+- 📧 Contact form integrated with Web3Forms API
+- 🧩 Modular component-based architecture (Navbar, Hero, Services, Portfolio, Team, Contact, Footer)
+- 🌍 Deployed with SSL & professional email (Hostinger)
 
----
+## 🛠️ Tech Stack
+React.js, Vite, Tailwind CSS  
+Framer Motion, Web3Forms  
+Hostinger Deployment  
 
-## 📹 Tutorial Overview
-This project is based on a step-by-step tutorial covering:
-- Project setup using **React + Vite**
-- Installing **Tailwind CSS** & Google Fonts
-- Building modular components:
-  - Navbar
-  - Hero
-  - Trusted Clients
-  - Services
-  - Portfolio (Work)
-  - Team Members
-  - Contact Form
-  - Footer
-- Advanced UI/UX enhancements:
-  - Theme persistence using `localStorage`
-  - Cursor animation with `requestAnimationFrame`
-  - Smooth scrolling navigation
-  - Page load and scroll-triggered animations
-
----
-
-## 🔑 Key Learnings
-- **Component-based architecture** with React
-- **Utility-first styling** via Tailwind for rapid development
-- **Framer Motion** for polished animations
-
-
----
-
-## 📦 Tech Stack
-- **ReactJS + Vite**
-- **Tailwind CSS**
-- **Framer Motion**
-
-
+## 🎥 Demo Video
+[Watch Here](https://res.cloudinary.com/dijsakcjf/video/upload/v1758946739/Agency_giiftx.mp4)
