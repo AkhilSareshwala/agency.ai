@@ -1,31 +1,18 @@
+🎥 **Demo Video:** https://res.cloudinary.com/dijsakcjf/video/upload/v1758946739/Agency_giiftx.mp4  
+
 # 🌐 Digital Agency Website
 
-![Demo Preview](https://your-gif-link-here.gif)
+A modern digital agency website with animations, theme toggle, smooth scrolling, and integrated contact form, deployed with Hostinger.
 
-🎥 **[Watch Full Demo](https://your-domain.com)**
+## ⭐ Key Features
+- Dark/light theme toggle with persistence  
+- Framer Motion animations  
+- Custom animated cursor  
+- Smooth scroll navigation  
+- Contact form integration (Web3Forms API)  
 
-A responsive and animated **digital agency website** built with React, Tailwind CSS, and Framer Motion, featuring smooth scrolling, custom animations, and integrated contact form.
-
----
-
-## 🚀 Key Features
-- Dark/light mode toggle with localStorage persistence
-- Framer Motion animations (fades, transitions, staggered effects)
-- Custom animated cursor with trailing circle effect
-- Smooth scrolling navigation across sections
-- Contact form integrated with Web3Forms
-- Component-based architecture (Navbar, Hero, Services, Portfolio, Team, Contact, Footer)
-- Deployed on Hostinger with SSL, domain & professional email
-
----
-
-## 🛠️ Tech Stack
-**Frontend:** React.js, Vite, Tailwind CSS, Framer Motion  
-**Forms:** Web3Forms API  
-**Deployment:** Hostinger  
-
----
-
-## 📂 Code & Demo
-- **Code:** [GitHub Repo](https://github.com/your-username/digital-agency-website)  
-- **Live Demo:** [Digital Agency Website](https://your-domain.com)
+## 🛠 Tech Stack
+- **Frontend:** React.js, Vite, Tailwind CSS  
+- **Animations:** Framer Motion  
+- **Forms:** Web3Forms API  
+- **Deployment:** Hostinger  
